@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/altheafeuillet-portfolio/static/css/main.91a9ed4e.css",
+    "main.js": "/altheafeuillet-portfolio/static/js/main.73768bd5.js",
+    "static/js/453.acca0757.chunk.js": "/altheafeuillet-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/lizmap-presentation.gif": "/altheafeuillet-portfolio/static/media/lizmap-presentation.2b8d2f6dd8129d0db348.gif",
+    "static/media/webApp.gif": "/altheafeuillet-portfolio/static/media/webApp.24f4ff5d3ecc4c0dc4ff.gif",
+    "static/media/traitements.jpg": "/altheafeuillet-portfolio/static/media/traitements.84e7faf22e1b7aa2ad6d.jpg",
+    "static/media/folium-map.png": "/altheafeuillet-portfolio/static/media/folium-map.bdd1d150d27910abc5e4.png",
+    "static/media/globe.jpg": "/altheafeuillet-portfolio/static/media/globe.563640a94173f49a3a62.jpg",
+    "static/media/tooltip.png": "/altheafeuillet-portfolio/static/media/tooltip.28b7ad1a9f31b1c75216.png",
+    "static/media/NDWI.png": "/altheafeuillet-portfolio/static/media/NDWI.c18678ca586c2ca7b477.png",
+    "static/media/NDVI.png": "/altheafeuillet-portfolio/static/media/NDVI.2e36c54b7c120cedb10e.png",
+    "static/media/djangoImg.png": "/altheafeuillet-portfolio/static/media/djangoImg.402a51affd2d345dbd95.png",
+    "static/media/fond-bg-footer.png": "/altheafeuillet-portfolio/static/media/fond-bg-footer.61ab7602368ea49f8831.png",
+    "static/media/abondance-jussie.png": "/altheafeuillet-portfolio/static/media/abondance-jussie.3db745445c6ac3890fd8.png",
+    "static/media/dashboard.png": "/altheafeuillet-portfolio/static/media/dashboard.08a8a366382a5a0d8f94.png",
+    "static/media/creationMapResult.png": "/altheafeuillet-portfolio/static/media/creationMapResult.73eefafc0146e0840d53.png",
+    "static/media/arcgis.png": "/altheafeuillet-portfolio/static/media/arcgis.a58912211ac98c354f03.png",
+    "static/media/Poppins-Regular.ttf": "/altheafeuillet-portfolio/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/altheafeuillet-portfolio/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/altheafeuillet-portfolio/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/standing_ovation.gif": "/altheafeuillet-portfolio/static/media/standing_ovation.7722f587ea1fc7dc9ef5.gif",
+    "static/media/evolution_standing_ovation.png": "/altheafeuillet-portfolio/static/media/evolution_standing_ovation.20a276ccbeffc2e46c1c.png",
+    "static/media/favicon.png": "/altheafeuillet-portfolio/static/media/favicon.3028445dcdd8eb8e9eb2.png",
+    "static/media/creationMap.png": "/altheafeuillet-portfolio/static/media/creationMap.e1dddd8b4f23120b6c8b.png",
+    "static/media/logo.png": "/altheafeuillet-portfolio/static/media/logo.115a8e8205a8279d6c13.png",
+    "static/media/github.svg": "/altheafeuillet-portfolio/static/media/github.de90f8d8230e7f1ed57e7ae36cd87ccb.svg",
+    "static/media/linkedin.svg": "/altheafeuillet-portfolio/static/media/linkedin.b7210944d3d73099a4d372a4c8a0244e.svg",
+    "index.html": "/altheafeuillet-portfolio/index.html",
+    "main.91a9ed4e.css.map": "/altheafeuillet-portfolio/static/css/main.91a9ed4e.css.map",
+    "main.73768bd5.js.map": "/altheafeuillet-portfolio/static/js/main.73768bd5.js.map",
+    "453.acca0757.chunk.js.map": "/altheafeuillet-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a9ed4e.css",
+    "static/js/main.73768bd5.js"
+  ]
+}
